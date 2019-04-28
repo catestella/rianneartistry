@@ -1,6 +1,6 @@
 # Rianne Camille Artistry
 
-### Buseiness Website for Freelance Makeup Artist
+### Business Website for Freelance Makeup Artist
 
 #### Single Page Sections:
 * About Me
